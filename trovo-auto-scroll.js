@@ -3,10 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-05-12
 // @description  try to take over the world!
-// @author       You
+// @author       TheKex
 // @match        https://trovo.live/chat/*
 // @match        https://trovo.live/s/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=trovo.live
+// @require      https://raw.githubusercontent.com/TheKex/trovo-auto-scroll/main/trovo-auto-scroll.js
 // @grant        none
 // ==/UserScript==
 
