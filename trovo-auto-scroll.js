@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Trovo auto-scroll fix
 // @namespace    http://tampermonkey.net/
-// @version      2024-05-12
-// @description  try to take over the world!
+// @version      0.1.0
+// @description  Scroll down chat, when it stuck every 20 seconds
 // @author       TheKex
 // @match        https://trovo.live/chat/*
 // @match        https://trovo.live/s/*
